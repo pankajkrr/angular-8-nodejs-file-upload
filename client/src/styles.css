@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 50px 0;
+  font-family: sans-serif;
+}
+
+
+.file-upload {
+  display: block;
+  background-color: #e7ecf3;
+  padding: 18px 10px;
+  border-radius: 8px;
+}
+
+
+.row {
+  padding: 100px 10px;
+  background-color: aquamarine;
+  border-radius: 3px;
+}
+
+/* .file-upload button {
+  background: #6314ef;
+  padding: 9px 20px;
+  color: white;
+  border: none;
+  outline: 0;
+  border-radius: 5px;
+  cursor: pointer;
+} */
